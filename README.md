@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
@@ -73,3 +74,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Modal
+Full functional Modal
+
+The creation of a modal as part of the practical React course, in which the main React hooks were learned
+>>>>>>> 49ac294322c2801d389627dd8c71472cc75d1202
